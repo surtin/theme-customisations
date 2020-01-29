@@ -1,0 +1,15 @@
+{
+    "name": "surtin/theme-customisations",
+    "description": "Allows adding custom code to child themes that pretend to be parent themes (Storefront, etc.)",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "surtin",
+            "email": "surtin@surtin.com"
+        }
+    ]
+}
